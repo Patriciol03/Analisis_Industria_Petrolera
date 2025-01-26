@@ -27,3 +27,7 @@ Este análisis permitirá al cliente tomar decisiones informadas basadas en dato
 
 ## 👥 Alcance y usuario Final
 El dashboard final esta pensado para utilizarse por los dueños e inversores solicitantes de la demanda ficticia, por este motivo se busca dividir la informacion lo mas clara posible para que de este modo funcione como una herramienta para la toma de decisiones.
+
+
+## 📊 Análsis en Power BI 
+
