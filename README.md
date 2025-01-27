@@ -94,6 +94,32 @@ Sucursal 2 = CALCULATE(SUM(Facturacion[Monto facturado]),Facturacion[Sucursal] =
 ```
 
 
+## 📉 Vista previa del tablero: 
+**Portada**
+![image](https://github.com/user-attachments/assets/c34666c7-cdeb-4a62-a751-e816374ad78f)
+
+--- 
+
+**Pagina 1: Reporte de facturacion** 
+![image](https://github.com/user-attachments/assets/def250f9-ac82-4673-b9f9-9952e22b24b1)
+
+---
+
+**Pagina 2: Reporte de empleados** 
+![image](https://github.com/user-attachments/assets/130ab0da-f237-45eb-84ad-98e3c645e4e7)
+
+--- 
+
+**Pagina 3: Reporte de mercado**
+![image](https://github.com/user-attachments/assets/f7395555-2fb0-424c-b528-5df80f635415)
+
+---
+
+**Filtro desplegable y boton para eliminar todos los filtros:**
+![image](https://github.com/user-attachments/assets/31f4524c-667a-4fa7-b6d5-eb4af8950652)
+
+
+
 
 
 
