@@ -128,6 +128,10 @@ Algunos puntos que se pueden añadir a futuro siguiendo la problemática inicial
 * incluir, analizar y solucionar el por qué del faltante de caja por cada personal. 
 * Incluir los gastos de logística, distribución del combustible, el cuál también podría estar afectando a la rentabilidad de cada sucursal
 
+## ‼️Aclaracion
+Este proyecto se ha desarrollado utilizando un conjunto de datos ficticios con el objetivo de implementar y demostrar mis conocimientos. Debido a que no será utilizado por usuarios reales, no se hará un énfasis detallado en la documentación de las medidas, tablas, ni en las instrucciones de uso del tablero.
+
+<h2 align="center">¡Muchas gracias por tu atención! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 
 
