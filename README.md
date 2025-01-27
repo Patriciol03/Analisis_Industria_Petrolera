@@ -30,4 +30,43 @@ El dashboard final esta pensado para utilizarse por los dueños e inversores sol
 
 
 ## 📊 Análsis en Power BI 
+Para el analisis final, se desarrolo un tablero de control con 3 paginas diferentes con el fin de dividir la informacion de forma clara.
+
+**🎯Objetivos del tablero:**
+- Identificar visualmente la sucursal con menor rendimiento
+- Presentar los datos de los encargados y una comparativa entre los 5
+- Exponer las diferentes empresas del rubro del combustible, visualizando sus ubicaciones y las zonas con mas y menos competencia.
+
+**📠 Medidas calculadas:** 
+
+1) Cantidad de banderas: Count realizado para conocer la cantidad de banderas petroletas registradas.
+![image](https://github.com/user-attachments/assets/4bf8e9f5-0c61-48ef-990d-c1146fb88c48)
+
+2) Cantidad de ciudades: Count para conocer la cantidad de ciudades que ya cuentan con alguna empresa petrolera.
+![image](https://github.com/user-attachments/assets/fb2c7eca-c029-45b1-af6c-7110d8b71d64)
+
+3) Edad promedio: funcion Average para identificar el promedio de edad de los empleados.
+![image](https://github.com/user-attachments/assets/27b8abe3-67a5-488e-9fc2-e3ace8b0628d)
+
+4) Empresas: realizada para conocer la cantidad de empresas registradas al momento del analisis (una bandera puede contener muchas empresas bajo su nombre)
+![image](https://github.com/user-attachments/assets/c19eb46d-394c-47f1-a6fd-144eabd36049)
+
+5) Facturacion: Sum para realizar la suma de todas las ventas en ambas sucursales.
+![image](https://github.com/user-attachments/assets/43efe04a-d8d4-4ac8-9401-92bc3b97b9f8)
+
+6) Faltantes: Sum para realizar la suma de los faltantes de caja en ambas sucursales.
+![image](https://github.com/user-attachments/assets/1ce11ccd-fe72-4be1-8c38-6417677c432f)
+
+7) Sucursal 1: Calculate para sumar unicamente las ventas realizadas por la sucursal N°1
+![image](https://github.com/user-attachments/assets/d7164687-81ef-40b2-be42-6362f750c029)
+
+8) Sucursal 2: Calculate para sumar unicamente las ventas realizadas por la sucursal N°2
+![image](https://github.com/user-attachments/assets/2a4e8a32-09cc-406c-a49e-3b16d6a0151a)
+
+
+
+
+
+
+
 
