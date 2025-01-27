@@ -32,6 +32,8 @@ El dashboard final esta pensado para utilizarse por los dueños e inversores sol
 ## 📊 Análsis en Power BI 
 Para el analisis final, se desarrolo un tablero de control con 3 paginas diferentes con el fin de dividir la informacion de forma clara.
 
+Poder acceder al dashboard final desde el siguiente link: [Reporte - Sobre Vuelo S.A](https://app.powerbi.com/view?r=eyJrIjoiMGZjMTBmNWYtM2I0OS00NzU1LWFlOGItYWMxMTBlYmVhZTNjIiwidCI6ImViZTFkZTRkLWIyM2EtNDMxNC1hNGM4LTk3OTRiZGVlNDY5OSIsImMiOjR9)
+
 **🎯Objetivos del tablero:**
 - Identificar visualmente la sucursal con menor rendimiento
 - Presentar los datos de los encargados y una comparativa entre los 5
