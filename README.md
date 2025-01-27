@@ -43,41 +43,49 @@ Para el analisis final, se desarrolo un tablero de control con 3 paginas diferen
 ```
 Cant. Banderas = DISTINCTCOUNT(Banderas[Nombre]) 
 ```
+---
 
 2) Cantidad de ciudades: Count para conocer la cantidad de ciudades que ya cuentan con alguna empresa petrolera.
 ```
 Cant. Localidades = DISTINCTCOUNT(Ciudades[Ciudad]) 
 ```
+---
 
 3) Edad promedio: funcion Average para identificar el promedio de edad de los empleados.
 ```
 Edad promedio = AVERAGE(Empleados[Edad])
 ```
+---
 
 4) Empleados: count para cononer la cantidad de empleados de las 2 sucursales.
 ```
 Empleados = COUNT(Empleados[Id_ empleado])
 ```
+---
 
 5) Empresas: realizada para conocer la cantidad de empresas registradas al momento del analisis (una bandera puede contener muchas empresas bajo su nombre)
 ```
 Empresas = DISTINCTCOUNT(Empresas_registradas[Id_ Cuit_empresa]) 
 ```
+---
 
 6) Facturacion: Sum para realizar la suma de todas las ventas en ambas sucursales.
 ```
 Facturacion = SUM(Facturacion[Monto facturado])
 ```
+---
 
 7) Faltantes: Sum para realizar la suma de los faltantes de caja en ambas sucursales.
 ```
 Faltantes = SUM(Facturacion[Faltante_caja]) 
 ```
+---
 
 8) Sucursal 1: Calculate para sumar unicamente las ventas realizadas por la sucursal N°1
 ```
 Sucursal 1 = CALCULATE(SUM(Facturacion[Monto facturado]),Facturacion[Sucursal] = 1) 
 ```
+---
 
 9) Sucursal 2: Calculate para sumar unicamente las ventas realizadas por la sucursal N°2
 
