@@ -100,17 +100,17 @@ Sucursal 2 = CALCULATE(SUM(Facturacion[Monto facturado]),Facturacion[Sucursal] =
 
 --- 
 
-**Pagina 1: Reporte de facturacion** 
+### **Pagina 1: Reporte de facturacion** 
 ![image](https://github.com/user-attachments/assets/def250f9-ac82-4673-b9f9-9952e22b24b1)
 
 ---
 
-**Pagina 2: Reporte de empleados** 
+### **Pagina 2: Reporte de empleados** 
 ![image](https://github.com/user-attachments/assets/130ab0da-f237-45eb-84ad-98e3c645e4e7)
 
 --- 
 
-**Pagina 3: Reporte de mercado**
+### **Pagina 3: Reporte de mercado**
 ![image](https://github.com/user-attachments/assets/f7395555-2fb0-424c-b528-5df80f635415)
 
 ---
