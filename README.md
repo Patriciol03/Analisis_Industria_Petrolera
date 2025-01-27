@@ -115,7 +115,18 @@ Sucursal 2 = CALCULATE(SUM(Facturacion[Monto facturado]),Facturacion[Sucursal] =
 
 ---
 
+## 📝 Conclusiones
+Se puede observar que la sucursal N°2 facturó más de un millón de pesos en el período de 2017 y 2021 respecto con la sucursal N°1 pero ambos tuvieron la misma cantidad de faltante de caja, aún sabiendo que la sucursal N°2 tiene más gente trabajando. Los trabajadores de ambas sucursales tienen un rango de edad desde los 25 hasta los 34 años, siendo hombres en su mayoría. 
+También podemos observar que la sucursal N°1 a partir del año 2020 descreció notablemente en comparación de la sucursal N°2, el cuál en 2020 tambien 
+decayeron sus ingresos pero en 2021 no hizo más que incrementarlos. 
 
+La mayor cantidad de empresas se concentra en Bs As siendo YPF la primera bandera en el ranking, siguiendolo Blanca y Shell, respectivamente.
+En lineas generales, la sucursal N°2 es la más rentable ya que la misma cuenta con mayores ingresos y mayor personal para la distribución de turnos.
+
+**Futuras lineas**
+Algunos puntos que se pueden añadir a futuro siguiendo la problemática inicial.
+* incluir, analizar y solucionar el por qué del faltante de caja por cada personal. 
+* Incluir los gastos de logística, distribución del combustible, el cuál también podría estar afectando a la rentabilidad de cada sucursal
 
 
 
